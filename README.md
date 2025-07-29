@@ -1,6 +1,6 @@
 # Image Caption Generation using Deep Learning
 
-[![GitHub license](https://img.shields.io/github/license/Sajid030/image-caption-generator)](https://github.com/Sajid030/image-caption-generator/blob/master/LICENSE.md)
+
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
@@ -21,11 +21,7 @@
 
 ## Demo
 
-- Link: https://imgcaptiongen.streamlit.app/
 
-`Note:` If the website link provided above is not working, it might mean that the deployment has been stopped or there are technical issues. We apologize for any inconvenience.
-
-- Please consider giving a ⭐ to the repository if you find this app useful.
 - A quick preview of the **Image Caption Generator** app:
 
 ![Caption Generator Demo](resource/demo.gif)
@@ -60,7 +56,7 @@ Download the dataset from [Kaggle](https://www.kaggle.com/adityajn105/flickr8k) 
 This project is written in Python 3.10.12. If you don't have Python installed, you can download it from the [official website](https://www.python.org/downloads/). If you have an older version of Python, you can upgrade it using the pip package manager, which should be already installed if you have Python 2 >=2.7.9 or Python 3 >=3.4 on your system.
 To install the required packages and libraries, you can use pip and the provided requirements.txt file. First, clone this repository to your local machine using the following command:
 ```
-https://github.com/Sajid030/image-caption-generator.git
+https://github.com/mahi6299/Vision2Text.git
 ```
 Once you have cloned the repository, navigate to the project directory and run the following command in your terminal or command prompt:
 ```bash
@@ -97,9 +93,6 @@ enableCORS = false
         demo.gif
 ```
 
-## Bug / Feature Request
-
-If you encounter any bugs or issues with the loan status predictor app, please let me know by opening an issue on my [GitHub repository](https://github.com/Sajid030/image-captioning/issues). Be sure to include the details of your query and the expected results. Your feedback is valuable in helping me improve the app for all users. Thank you for your support!
 
 ## Future Scope
 
